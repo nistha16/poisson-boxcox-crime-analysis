@@ -12,3 +12,9 @@ distances:
 using LSOA code to get the name of the borough:
 https://geoportal.statistics.gov.uk/search?collection=dataset&tags=England%2Clsoa21
 https://data.london.gov.uk/dataset/lsoa-atlas/
+
+
+linear reg https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+poisson https://bookdown.org/roback/bookdown-BeyondMLR/ch-poissonreg.html
